@@ -12,7 +12,7 @@ Once an end user opens the college report handling system’s home page there wi
 3. STUDENTS </br>
 
 
-## 1. ADMIN: </br>
+### 1. ADMIN: </br>
 
  Responsible for managing user records. </br>
 	1.login into the website </br>
@@ -20,7 +20,7 @@ Once an end user opens the college report handling system’s home page there wi
 	3.accept/decline user request </br>
 	4.view user details </br>
 
-## 2. FACULTY:
+### 2. FACULTY:
 
 Rights to view and edit their personal details </br>
 	1.login into the website </br>
@@ -28,7 +28,7 @@ Rights to view and edit their personal details </br>
 	3.edit the details </br>
 	 4.view schedule information </br>
 
-  ## 3.STUDENTS : </br>
+  ### 3.STUDENTS : </br>
 
    Rights to view and edit their personal details </br>
 	1.login into the website  </br>
